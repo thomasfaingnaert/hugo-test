@@ -1,0 +1,4 @@
+baseURL = 'https://thomasfaingaert.github.io/hugo-test/'
+languageCode = 'en-gb'
+title = "Hugo Test"
+theme = 'ananke'
